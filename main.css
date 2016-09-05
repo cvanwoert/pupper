@@ -1,0 +1,129 @@
+html, body {
+    font-family: 'Raleway', sans-serif !important;
+    font-weight: 300; 
+    margin: 0;
+    padding: 0;
+    color:#323232 !important;
+}
+
+
+
+.container {
+    width:75% !important;
+    margin:0;
+}
+
+/*Header*/
+
+.header {
+    margin:0;
+    background:#fff;
+} 
+
+.header h1 {
+    font-weight:bold;
+    display:inline-block;
+}
+
+.header ul {
+    list-style: none;
+    float:right !important;
+}
+
+.header li {
+    margin:0;
+    display:inline-block !important;
+    padding:20px 20px;
+}
+
+.header .pull-right {
+    padding-top:10px
+}
+
+.header a{
+    color:#000;
+}
+
+.logo {
+    width:70px;
+    margin-top:-10px;
+    margin-bottom:10px;
+    margin-right:20px;
+}
+
+.btn {
+    background:#323232 !important;
+    color:#fff !important;
+    padding:10px 30px !important;
+}
+
+
+/*Jumbotron*/
+
+.jumbotron {
+    height:600px;
+    background:url(images/pexels-photo-115025.jpeg) no-repeat center -40px fixed;
+    background-size:cover;
+    background-position;
+    margin:0 0;
+    padding:0 0;
+
+} 
+
+
+.jumbotron h1 { 
+    color:#323232 !important;
+    padding:20px 0 20px 0;
+    font-size: 60px !important;
+    margin:0 auto
+}
+
+.jumbotron p {
+    font-size:30px !important;
+    text-shadow: 0 0 5px #000;
+}
+
+
+
+/*Supporting*/
+
+.supporting {
+    text-align:center;
+    margin:0;
+    padding:0 0;
+}
+
+.supporting h2 {
+    padding-top:50px;
+    font-weight:bold;
+}
+
+.supporting p {
+    font-size:18px;
+}
+
+/*Signup*/
+
+.signup {
+    padding:100px 0;
+}
+
+.signup h2 {
+    text-align: center;
+}
+
+.signup form {
+    width:400px;
+    margin:auto;
+}
+
+/*Footer*/
+
+.footer p {
+    color:#323232;
+    padding:50px 0;
+}
+
+/*Media*/
+
+
